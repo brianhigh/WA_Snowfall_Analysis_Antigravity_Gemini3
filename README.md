@@ -43,4 +43,7 @@ This plot compares the percentage difference in annual snowfall for Strong/Weak 
 - ENSO Phase classified using average ONI during the winter months (Nov-Mar).
 - Snowfall approximated from daily snow depth increases.
 
-See: [prompt.md](prompt.md) for the prompt used to generate this analysis.
+---
+
+See: [prompt.md](prompt.md) for the prompt used to generate this analysis in Antigravity using Gemini 3 Pro. No manual editing was done to the code. The README was made from the Walkthrough produced by Antigravity. Other than this paragraph, only minor formatting changes were made to the README.
+
