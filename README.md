@@ -18,7 +18,7 @@ This plot shows the average monthly snowfall (approximated from daily snow depth
 - Strong La Niña often correlates with the highest snowfall peaks.
 - El Niño years tend to have lower snowfall averages.
 
-#### Percentage Difference (Strong vs Weak)
+### Percentage Difference (Strong vs Weak)
 
 ![Percentage Difference (Strong vs Weak)](plots/snowfall_pct_diff_strong_weak.png)
 
@@ -27,9 +27,7 @@ This plot compares the percentage difference in annual snowfall for Strong/Weak 
 #### Observations:
 
 - Strong La Niña consistently shows a positive percentage difference (more snow than neutral).
-
 - Strong El Niño consistently shows a negative percentage difference (less snow than neutral).
-
 - The magnitude of the effect varies by site, with some sites showing more sensitivity than others.
 
 ## Methodology
