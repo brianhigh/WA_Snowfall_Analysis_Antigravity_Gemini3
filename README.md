@@ -20,7 +20,7 @@ This plot shows the average monthly snowfall (approximated from daily snow depth
 
 #### Percentage Difference (Strong vs Weak)
 
-![Percentage Difference (Strong vs Weak)](plots/snowfall_pct_diff_by_enso_strong_weak.png)
+![Percentage Difference (Strong vs Weak)](plots/snowfall_pct_diff_strong_weak.png)
 
 This plot compares the percentage difference in annual snowfall for Strong/Weak ENSO phases relative to Neutral years.
 
@@ -45,4 +45,4 @@ This plot compares the percentage difference in annual snowfall for Strong/Weak 
 - ENSO Phase classified using average ONI during the winter months (Nov-Mar).
 - Snowfall approximated from daily snow depth increases.
 
-See: prompt.md for the prompt used to generate this analysis.
+See: [prompt.md](prompt.md) for the prompt used to generate this analysis.
