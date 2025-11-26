@@ -16,9 +16,9 @@ This plot shows the average monthly snowfall (approximated from daily snow depth
 
 - La Niña years generally show higher snowfall across most sites and months.
 
-### Percentage Difference (Strong vs Weak)
+### Percentage Difference (vs Neutral)
 
-![Percentage Difference (Strong vs Weak)](plots/snowfall_pct_diff_strong_weak.png)
+![Percentage Difference (vs Neutral)](plots/snowfall_pct_diff_strong_weak.png)
 
 This plot compares the percentage difference in annual snowfall for Strong/Weak ENSO phases relative to Neutral years.
 
