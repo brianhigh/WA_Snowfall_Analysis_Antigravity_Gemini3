@@ -15,8 +15,6 @@ This plot shows the average monthly snowfall (approximated from daily snow depth
 #### Observations:
 
 - La Niña years generally show higher snowfall across most sites and months.
-- Strong La Niña often correlates with the highest snowfall peaks.
-- El Niño years tend to have lower snowfall averages.
 
 ### Percentage Difference (Strong vs Weak)
 
@@ -27,8 +25,9 @@ This plot compares the percentage difference in annual snowfall for Strong/Weak 
 #### Observations:
 
 - Strong La Niña consistently shows a positive percentage difference (more snow than neutral).
-- Strong El Niño consistently shows a negative percentage difference (less snow than neutral).
-- The magnitude of the effect varies by site, with some sites showing more sensitivity than others.
+- At many sites, Weak La Niña shows a greater positive percentage difference than Strong La Niña.
+- Both Weak and Strong El Niño show a widely varying percentage difference (sometimes more snow, sometimes less snow than neutral).
+- Overall, the magnitude of the effect varies by site, with some sites showing more sensitivity than others.
 
 ## Methodology
 
@@ -45,5 +44,5 @@ This plot compares the percentage difference in annual snowfall for Strong/Weak 
 
 ---
 
-See: [prompt.md](prompt.md) for the prompt used to generate this analysis in Antigravity using Gemini 3 Pro. No manual editing was done to the code. The README was made from the Walkthrough produced by Antigravity. Other than this paragraph, only minor formatting changes were made to the README.
+See: [prompt.md](prompt.md) for the prompt used to generate this analysis in Antigravity using Gemini 3 Pro. No manual editing was done to the code. The README was made from the Walkthrough produced by Antigravity. Other than this paragraph, and correcting some of the interpretations of the results, only minor formatting changes were made to the README.
 
